@@ -1,0 +1,41 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  background-color: rgba(69, 183, 69, 0.365);
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  margin: 30px;
+  font-family: "Bungee Inline", sans-serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color: green;
+}
+
+p {
+  font-size: 2rem;
+  color: white;
+  font-family: "Bungee Inline", sans-serif;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: "Bungee Inline", sans-serif;
+
+}
